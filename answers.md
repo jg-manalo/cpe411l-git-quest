@@ -4,4 +4,5 @@
 `LEVEL 4 COMPLETE: fixed the hallway sign`
 `LEVEL 5 COMPLETE: The Side Door (Branch Skills) done`
 `LEVEL 6 CHEST CODE: FOX-7`
+`LEVEL 7 COMPLETE: The Mini Boss (Diff) done`
 `LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/28`
